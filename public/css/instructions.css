@@ -1,0 +1,14 @@
+/*
+Sisällysluettelon muotoiluja
+Muotoiluissa on käytetty apuna:
+https://www.tipsandtricks-hq.com/simple-table-of-contents-toc-using-pure-html-and-css-code-9217
+*/
+
+#toc_container {
+    display: table;
+    width: auto;
+}
+
+#toc_container li, #toc_container ul, #toc_container ul li{
+    list-style: outside none none !important;
+}

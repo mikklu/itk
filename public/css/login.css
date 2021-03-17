@@ -1,0 +1,19 @@
+/* Kirjautumissivun muotoiluja */
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  background-color: #dfebf7;
+}
+
+/* Kirjautumislomakkeen muotoiluja */
+.form-login {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
