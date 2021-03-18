@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/mikklu/ideatietokanta/main/public/img/logo.png?token=ARJA4YR6YVFF6T3XOEOFPFTAKL5XS"></p>
+![Image](../main/public/img/logo.png?raw=true")
 
 ## Tietoa Ideatietokannasta
 
