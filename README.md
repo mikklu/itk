@@ -1,4 +1,4 @@
-![Image](../main/public/img/logo.png?raw=true")
+<img align="center" src="../main/public/img/logo.png?raw=true" alt="Ideatietokanta">
 
 ## Tietoa Ideatietokannasta
 
