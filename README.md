@@ -1,4 +1,4 @@
-<img align="center" src="../main/public/img/logo.png?raw=true" alt="Ideatietokanta">
+<p align="center"><img src="../main/public/img/logo.png?raw=true"></p>
 
 ## Tietoa Ideatietokannasta
 
